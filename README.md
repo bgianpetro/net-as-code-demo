@@ -3,7 +3,7 @@ Network as Code Demo
 
 1. Open Powershell terminal
 
-     git clone https://github.com/CumulusNetworks/cldemo-vagrant
+    git clone https://github.com/CumulusNetworks/cldemo-vagrant
     cd cldemo-vagrant
     vagrant up oob-mgmt-server oob-mgmt-switch spine01 spine02 leaf01 leaf02 server01 server02
 
