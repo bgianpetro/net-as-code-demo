@@ -62,3 +62,6 @@ Reconfigure the Network to use BGP
     net show bgp summ
     net show conf
 ```
+### 13. Take down the whole thing.  From the original Powershell/Terminal:
+
+    vagrant destroy -f
