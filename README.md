@@ -12,6 +12,8 @@ Network as Code Demo
     vagrant port oob-mgmt-server
 ```
 ### 3. Using Putty/SecureCRT/Terminal ssh to oob-mgmt-server (open at least 4 windows)
+* username: cumulus
+* password: CumulusLinux!
 
 ### 4. On the oob-mgmt-server:
 ```
